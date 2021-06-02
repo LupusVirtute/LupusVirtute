@@ -3,7 +3,7 @@
 I am Software Developer i love programming i started as a kid making my first program with cpp i was interested in programs that just controlled my own computer at low level after that i was interested in games and servers after that i got into PHP JS HTML and CSS as part of web dev after that i replaced php with C# and falled in love with OOP
 ### My touch with programming
 I am passionate about programming due to how i can automatize things and make machines do something for me i love technologies that make my life easier mainly due to how these can help me advance with my projects a lot of faster i also like to do some frameworks of my own to ease the repetetive processes
-## Technologies i am advanced at and love ❤️
+## Languages i love using and technologies I'm fluent with ❤️
 <!-- ADVANCED_TECH -->
 + <a><img src='./AdvancedTechnologies/.NET.png' alt='.NET.png' style='max-width:128px;' height='32'/></a>
 + <a><img src='./AdvancedTechnologies/CSharp.png' alt='CSharp.png' style='max-width:128px;' height='32'/></a>
@@ -13,7 +13,7 @@ I am passionate about programming due to how i can automatize things and make ma
 
 <!-- ADVANCED_TECH_END -->
 
-## Technologies that i know or used
+## Technologies I alerady have had contact with
 <!-- TECH_DISPLAY -->
 <a><img src='./Technologies/.NET.png' alt='.NET.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Angular.png' alt='Angular.png' style='max-width:128px;' height='32'/></a>
