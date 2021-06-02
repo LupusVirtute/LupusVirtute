@@ -8,7 +8,7 @@ tech_display_end_tag = '<!-- TECH_DISPLAY_END -->'
 advanced_tech_begin_tag = '<!-- ADVANCED_TECH -->'
 advanced_tech_end_tag =  '<!-- ADVANCED_TECH_END -->'
 
-img_replacer = '<img src=\'$sourceImage\' alt=\'$altDesc\' style=\'max-width:128px;\' height=\'32\'/>'
+img_replacer = '<a><img src=\'$sourceImage\' alt=\'$altDesc\' style=\'max-width:128px;\' height=\'32\'/></a>'
 
 def search_files(directory='.', extension=''):
     extension = extension.lower()
