@@ -1,4 +1,4 @@
-# Hello !  
+# Hello!  
 ### Something about me 
 I am Software Developer i love programming i started as a kid making my first program with cpp i was interested in programs that just controlled my own computer at low level after that i was interested in games and servers after that i got into PHP JS HTML and CSS as part of web dev after that i replaced php with C# and falled in love with OOP
 ### Something about me and programming
