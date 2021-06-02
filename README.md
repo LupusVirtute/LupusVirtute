@@ -13,7 +13,7 @@ I love programming due to how i can automatize things and do something for me i 
 
 <!-- ADVANCED_TECH_END -->
 
-## Technologies that i know
+## Technologies that i know or used
 <!-- TECH_DISPLAY -->
 <a><img src='./Technologies/.NET.png' alt='.NET.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Angular.png' alt='Angular.png' style='max-width:128px;' height='32'/></a>
