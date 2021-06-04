@@ -52,6 +52,7 @@ I am passionate about programming due to how I can automatize things and make ma
 <a><img src='./Technologies/RegEx.jpg' alt='RegEx.jpg' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Sass.png' alt='Sass.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/SSH.png' alt='SSH.png' style='max-width:128px;' height='32'/></a>
+<a><img src='./Technologies/Strapi.jpg' alt='Strapi.jpg' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Sublime%20Text%203.png' alt='Sublime%20Text%203.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Svelte.png' alt='Svelte.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/TMux.png' alt='TMux.png' style='max-width:128px;' height='32'/></a>
@@ -60,6 +61,7 @@ I am passionate about programming due to how I can automatize things and make ma
 <a><img src='./Technologies/vercel.jpg' alt='vercel.jpg' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/VS.png' alt='VS.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/VSCode.png' alt='VSCode.png' style='max-width:128px;' height='32'/></a>
+<a><img src='./Technologies/vue.png' alt='vue.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/WebPack.png' alt='WebPack.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/YML.png' alt='YML.png' style='max-width:128px;' height='32'/></a>
 
