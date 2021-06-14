@@ -42,6 +42,7 @@ I am passionate about programming due to how I can automatize things and make ma
 <a><img src='./Technologies/Maven.png' alt='Maven.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/MSSQL.png' alt='MSSQL.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Mysql.png' alt='Mysql.png' style='max-width:128px;' height='32'/></a>
+<a><img src='./Technologies/NativeScript.png' alt='NativeScript.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/nginx.jpg' alt='nginx.jpg' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/NodeJS.png' alt='NodeJS.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/NPM.png' alt='NPM.png' style='max-width:128px;' height='32'/></a>
@@ -53,6 +54,7 @@ I am passionate about programming due to how I can automatize things and make ma
 <a><img src='./Technologies/php.png' alt='php.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/pip.svg' alt='pip.svg' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Postgres.png' alt='Postgres.png' style='max-width:128px;' height='32'/></a>
+<a><img src='./Technologies/PWA.png' alt='PWA.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/PyCharm.png' alt='PyCharm.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Python.png' alt='Python.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/QuickGraph.png' alt='QuickGraph.png' style='max-width:128px;' height='32'/></a>
@@ -62,6 +64,7 @@ I am passionate about programming due to how I can automatize things and make ma
 <a><img src='./Technologies/SSH.png' alt='SSH.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Strapi.jpg' alt='Strapi.jpg' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Sublime%20Text%203.png' alt='Sublime%20Text%203.png' style='max-width:128px;' height='32'/></a>
+<a><img src='./Technologies/svelte-native.svg' alt='svelte-native.svg' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Svelte.png' alt='Svelte.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/TMux.png' alt='TMux.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/TS.svg' alt='TS.svg' style='max-width:128px;' height='32'/></a>
@@ -70,6 +73,7 @@ I am passionate about programming due to how I can automatize things and make ma
 <a><img src='./Technologies/VS.png' alt='VS.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/VSCode.png' alt='VSCode.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/vue.png' alt='vue.png' style='max-width:128px;' height='32'/></a>
+<a><img src='./Technologies/VueNative.png' alt='VueNative.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/WebPack.png' alt='WebPack.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/YML.png' alt='YML.png' style='max-width:128px;' height='32'/></a>
 
