@@ -43,6 +43,7 @@ I am passionate about programming due to how I can automatize things and make ma
 <a><img src='./Technologies/MSSQL.png' alt='MSSQL.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Mysql.png' alt='Mysql.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/NativeScript.png' alt='NativeScript.png' style='max-width:128px;' height='32'/></a>
+<a><img src='./Technologies/NestJS.png' alt='NestJS.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/nginx.jpg' alt='nginx.jpg' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/NodeJS.png' alt='NodeJS.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/NPM.png' alt='NPM.png' style='max-width:128px;' height='32'/></a>
@@ -54,6 +55,7 @@ I am passionate about programming due to how I can automatize things and make ma
 <a><img src='./Technologies/php.png' alt='php.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/pip.svg' alt='pip.svg' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Postgres.png' alt='Postgres.png' style='max-width:128px;' height='32'/></a>
+<a><img src='./Technologies/Prisma.png' alt='Prisma.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/PWA.png' alt='PWA.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/PyCharm.png' alt='PyCharm.png' style='max-width:128px;' height='32'/></a>
 <a><img src='./Technologies/Python.png' alt='Python.png' style='max-width:128px;' height='32'/></a>
