@@ -39,7 +39,7 @@ def process_tech_files(src_dir:str,begin_tag,prefix:str = ''):
 
 def replace_between_tags(dir:str,file: str, first_tag: str, second_tag: str,prefix:str = ''):
     stringified = process_tech_files(dir,first_tag,prefix)
-    read_file = open(file, 'r', encoding="Latin-1")
+    read_file = open(file, 'r')
     file_content = ''
     begun = False
     for line in read_file:
@@ -52,7 +52,7 @@ def replace_between_tags(dir:str,file: str, first_tag: str, second_tag: str,pref
             file_content += line
         if not begun:
             file_content += line
-    with open(file,'w') as write_file:
+    with open(file,'w', encoding="utf8") as write_file:
         write_file.write(file_content)
 
 def generateTags():
